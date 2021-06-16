@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "lerna": "^4.0.0"
+  },
+  "scripts": {
+	  "bootstrap": "lerna bootstrap",
+	  "postinstall": "lerna bootstrap"
+  },
+  "name": "yarn-lerna-monorepo"
+}

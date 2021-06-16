@@ -1,0 +1,1 @@
+require('./lib').serve("Hello from workspace-a!");
