@@ -5,7 +5,8 @@
     "dotenv": "^10.0.0"
   },
   "scripts": {
-    "serve": "node index.js"
+    "serve": "node index.js",
+	"build": "node build.js"
   },
   "license": "MIT"
 }
